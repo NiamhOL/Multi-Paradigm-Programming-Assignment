@@ -1,1 +1,1 @@
-# Multi-Paradigm-Programming-Assignment-
+# Multi-Paradigm-Programming-Assignment
