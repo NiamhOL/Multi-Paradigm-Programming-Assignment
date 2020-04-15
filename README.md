@@ -1,5 +1,7 @@
 # Multi-Paradigm-Programming-Assignment
 
+  <img src="imagejpg.jpg" alt="CvsJava"/>
+
 ## How to download the repository:
 
 1. Download the repository from the following link <a href=https://github.com/Roisin-Fallon/Multi-Paradigm-Programming-Assignment>Click here</a>  
