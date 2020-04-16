@@ -36,7 +36,7 @@ Instructions on how to install JVM on your machine can be found <a href=https://
 
 Pease note that the source code is located in the /src folder. 
 
-In my case I downloaded the Intell from <a href=https://www.jetbrains.com/idea/>here</a>
+In my case I downloaded the Intelliji Java from <a href=https://www.jetbrains.com/idea/>here</a>
 
 Click File -> Open (find location of where the project is on your computer)
 Click Build -> Rebuild Project
