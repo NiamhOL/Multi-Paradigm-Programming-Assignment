@@ -23,8 +23,8 @@ In order to run the Shop program a C compiler is required.
  I ran the Shop program by entering the following commands into the  ununtu command line:
  
                    cd /mnt/c                  // As I saved the shop file to the C drive
-                   cd shop                    // Direct into the shop folder
-                   gcc -o shop shop.c         
+                   cd c-shop                    // Direct into the shop folder
+                   gcc -o c-shop shop.c         
                    gcc shop.c  
                    ./shop.c   
                    ./a.out  
